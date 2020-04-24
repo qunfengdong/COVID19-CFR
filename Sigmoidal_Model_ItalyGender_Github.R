@@ -1,12 +1,8 @@
 
 #####COVID-19 model age and CFR
-require(MMAC)
-require(mosaic)
-require(mosaicCalc)
 require(ggplot2)
 require(nlstools)
-library(xlsx)
-#require(manipulate)
+
 
 ######### Function for Logistic model fitting
 

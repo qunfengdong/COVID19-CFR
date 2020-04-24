@@ -1,11 +1,7 @@
 #####COVID-19 model age and death_rate
-require(MMAC)
-require(mosaic)
-require(mosaicCalc)
 require(ggplot2)
 require(nlstools)
-library(xlsx)
-#require(manipulate)
+
 
 ######### ######### Function for Logistic model fitting
 
